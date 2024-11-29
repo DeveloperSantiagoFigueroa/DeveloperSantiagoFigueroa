@@ -5,6 +5,7 @@
 - 💻 **Estudiante Téc. en Informática** ⌨️
 - 📷 **Fotógrafo Automotriz** 🚗
 
+<img src = "https://ibb.co/F3M546J">
 ---
 
 # 💻 Tech Stack:
