@@ -5,7 +5,7 @@
 - 💻 **Estudiante Téc. en Informática** ⌨️
 - 📷 **Fotógrafo Automotriz** 🚗
 
-<img src = "[https://ibb.co/F3M546J](https://i.ibb.co/1Q5rGZK/sape.png)">
+<img src = "https://ibb.co/F3M546J](https://i.ibb.co/1Q5rGZK/sape.png)">
 
 ![Logo](https://i.ibb.co/1Q5rGZK/sape.png)
 
