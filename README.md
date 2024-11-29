@@ -1,9 +1,7 @@
 # 🚘 Sobre Mi:
 ¡Hola! Soy Santiago Figueroa :)
-
-- 🌐 **Desarrollador Web** ☕
-- 💻 **Estudiante Téc. en Informática** ⌨️
-- 📷 **Fotógrafo Automotriz** 🚗
+🌐 **Desarrollador Web** ☕
+💻 **Estudiante Téc. en Informática** ⌨️
 
 ![Logo](https://i.ibb.co/1Q5rGZK/sape.png)
 
