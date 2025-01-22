@@ -1,7 +1,8 @@
 # 🚘 Sobre Mi:
 ¡Hola! Soy Santiago Figueroa :)
+Un enfermo por los autos que le gusta programar
 
-- 🌐 **Desarrollador Web** ☕
+- 🌐 **Desarrollador Web** ☕ --> Usando M.E.R.N como Tech Stack principal
 - 💻 **Estudiante Téc. en Informática** ⌨️
 
 ![Logo](https://i.ibb.co/1Q5rGZK/sape.png)
