@@ -3,7 +3,7 @@
 <br>
 Un enfermo por los autos que le gusta programar.. ⌨️
 
-- 🌐 **Desarrollador Web** ☕
+- 🌐 **Software Developer - Web Apps** ☕
 - 💻 **Estudiante Téc. en Informática** ⌨️
 
 ![Logo](https://i.ibb.co/1Q5rGZK/sape.png)
