@@ -1,7 +1,8 @@
-# 🚘 Sobre Mi:
-¡Hola! Soy Santiago Figueroa 🏁
-<br>
-Adicto a los autos, a tomar café (y no salir de casa).. ⌨️
+
+# 🌐 Santiago Figueroa 🏁
+#### Web Software Developer
+¡Hola! Soy Santy, estudiante de técnicatura en informática, egresado academicamente como Desarrollador Web Full-Stack 🚀. 
+Adicto a los autos, a tomar café (y no salir de casa).. ⌨️ 
 
 - 🌐 **Software Developer - Web Apps** ☕
 - 💻 **Estudiante Téc. en Informática** ⌨️
