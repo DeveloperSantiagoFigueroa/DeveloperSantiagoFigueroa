@@ -1,7 +1,7 @@
 # 🚘 Sobre Mi:
-¡Hola! Soy Santiago Figueroa :) 🏁
+¡Hola! Soy Santiago Figueroa 🏁
 <br>
-Un enfermo por los autos que le gusta programar.. ⌨️
+Adicto a los autos, a tomar café (y no salir de casa).. ⌨️
 
 - 🌐 **Software Developer - Web Apps** ☕
 - 💻 **Estudiante Téc. en Informática** ⌨️
