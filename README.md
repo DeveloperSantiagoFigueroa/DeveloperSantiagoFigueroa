@@ -3,6 +3,7 @@
 #### Web Software Developer
 ¡Hola! Soy Santy, estudiante de técnicatura en informática, egresado academicamente como Desarrollador Web Full-Stack 🚀. 
 Adicto a los autos, a tomar café (y no salir de casa).. ⌨️ 
+"Transformando café en líneas de código"
 
 - 🌐 **Software Developer - Web Apps** ☕
 - 💻 **Estudiante Téc. en Informática** ⌨️
