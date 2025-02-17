@@ -8,6 +8,7 @@ Adicto a los autos, a tomar café (y no salir de casa).. ⌨️
 - 💻 **Estudiante Téc. en Informática** ⌨️
 
 ![Logo](https://i.ibb.co/1Q5rGZK/sape.png)
+<br />
 ![NISSAN](https://img.shields.io/badge/-NISSAN-informational?logo=nissan&style=for-the-badge&logoColor=ffffff&color=a33333&labelColor=ff0000)
 
 ---
