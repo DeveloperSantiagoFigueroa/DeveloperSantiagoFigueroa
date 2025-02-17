@@ -3,13 +3,12 @@
 #### Web Software Developer
 ¡Hola! Soy Santy, tengo 16 años, estudiante de técnicatura en informática, egresado academicamente como Desarrollador Web Full-Stack 🚀. 
 Adicto a los autos, a tomar café (y no salir de casa).. ⌨️ 
+![NISSAN](https://img.shields.io/badge/-NISSAN-informational?logo=nissan&style=for-the-badge&logoColor=ffffff&color=a33333&labelColor=ff0000)
 
 - 🌐 **Software Developer - Web Apps** ☕
 - 💻 **Estudiante Téc. en Informática** ⌨️
 
 ![Logo](https://i.ibb.co/1Q5rGZK/sape.png)
-<br />
-❤️ ![NISSAN](https://img.shields.io/badge/-NISSAN-informational?logo=nissan&style=for-the-badge&logoColor=ffffff&color=a33333&labelColor=ff0000)
 
 ---
 
