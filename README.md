@@ -1,5 +1,5 @@
 
-# 🌐 Santiago Figueroa 🏁
+# 🌐 Santiago Figueroa 🏁 ![Santy](https://img.shields.io/badge/-Santiago%20figueroa-informational?logo=devbox&style=for-the-badge&logoColor=ffffff&color=363636&labelColor=363636)
 #### Web Software Developer
 ¡Hola! Soy Santy, tengo 16 años, estudiante de técnicatura en informática, egresado academicamente como Desarrollador Web Full-Stack 🚀. 
 Adicto a los autos, a tomar café (y no salir de casa).. ⌨️ 
