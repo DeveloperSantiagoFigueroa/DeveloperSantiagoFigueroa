@@ -1,7 +1,7 @@
 
 # 🌐 Santiago Figueroa 🏁
 #### Web Software Developer
-¡Hola! Soy Santy, tengo 16 años, estudiante de técnicatura en informática, egresado academicamente como Desarrollador Web Full-Stack 🚀. 
+¡Hola! Soy Santy, tengo 17 años, estudiante de técnicatura en informática, egresado academicamente como Desarrollador Web Full-Stack 🚀. 
 Adicto a los autos, a tomar café (y no salir de casa).. ⌨️ 
 <br />
 
